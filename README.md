@@ -48,7 +48,7 @@ PHONE_NUMBER=+62xxxx #(NO TELEGRAM ANDA )
 SENDER_ID=ID_SENDER #( YANG PESAN NYA MAU DI FORWARD )
 GRUP_ID=ID_GRUP #(ID TEMPAT GRUP MENAMPUNG )
 ```
-
+Simpan dengan nama file .env
 
 Buat yang bingung di mana mendapatkan API_ID, API_HASH : login di https://my.telegram.org dengan account anda, buat akun development baru pilih versi web lalu nanti akan jadi deh.
 Buat yang bingung dapatin id grup : Chat ke https://t.me/NetzkuBot tambahkan ke grup anda ( super grup/group ) lalu kirim pesan /id 
