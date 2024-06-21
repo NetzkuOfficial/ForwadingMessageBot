@@ -20,6 +20,13 @@ Setelah di clone masuk ke folder kerja ketik perintah
 
 Setelah masuk ke folder kerja, kita buat terlebih dahulu lingkungan VIRTUAL ( biar gak konflik dengan program lain )
 Jalankan perintah berikut ( Untuk sistem operasi windows )
+
+Untuk pertama kali saja, install pustaka pembuatan virtualenv di python publik.
+
+```pip install virtualenv```
+
+Settelah itu baru jalankan perintah pembuatan env di terminal berikut ini 
+
 ```python -m venv folder-saya```
 
 Jalankan/enter, setelah itu jalankan perintah berikut ini : 
