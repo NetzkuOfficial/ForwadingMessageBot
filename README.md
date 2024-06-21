@@ -18,7 +18,18 @@ Setelah di clone masuk ke folder kerja ketik perintah
 
 ```cd ForwadingMessageBot```
 
-Setelah masuk ke folder kerja, lalu install semua defency dalam file requirements.txt, jalankan printah berikut
+Setelah masuk ke folder kerja, kita buat terlebih dahulu lingkungan VIRTUAL ( biar gak konflik dengan program lain )
+Jalankan perintah berikut ( Untuk sistem operasi windows )
+```python -m venv folder-saya```
+
+Jalankan/enter, setelah itu jalankan perintah berikut ini : 
+
+```folder-saya\Scripts\activate```
+
+
+
+
+lalu install semua defency dalam file requirements.txt, jalankan printah berikut
 
 ```pip install -r requirements.txt```
 
